@@ -10,8 +10,9 @@ sentence-transformers>=2.2.0
 torch>=2.0.0
 numpy>=1.24.0
 
-# Web UI
+# Web UI with Modern Components 🎨
 streamlit>=1.28.0
+streamlit-shadcn-ui>=0.1.0
 
 # Utilities
 python-dotenv>=1.0.0
