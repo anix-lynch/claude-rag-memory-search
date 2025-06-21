@@ -163,10 +163,11 @@ MIT License - Feel free to use this for personal or commercial projects!
 
 **Built by Anix Lynch** - AI Engineer & Full-Stack Developer
 
-- 🐦 Twitter: [@anix_lynch](https://twitter.com/anix_lynch)
+- 🐦 Twitter: [@anixlynch](https://twitter.com/anixlynch)
 - 💼 LinkedIn: [linkedin.com/in/anixlynch](https://www.linkedin.com/in/anixlynch/)
 - 📁 Portfolio: [gozeroshot.dev](https://www.gozeroshot.dev)
 - 💻 GitHub: [github.com/anix-lynch](https://github.com/anix-lynch)
+- 📊 Kaggle: [kaggle.com/anixlynch](https://www.kaggle.com/anixlynch)
 
 ---
 
